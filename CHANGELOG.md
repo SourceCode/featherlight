@@ -3,6 +3,7 @@ Featherlight – Changelog
 
 Master
 -----------------------------------
+- New `persist` option to persist content [#122]
 - Open & Close return promises that are resolved when their action successfully finishes.
 
 1.2.2 - 2015-03-11
